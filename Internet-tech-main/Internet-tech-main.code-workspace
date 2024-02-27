@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Practical"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Internet-tech-main"
+	}
+}
