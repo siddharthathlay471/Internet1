@@ -1,5 +1,13 @@
 h1 { color: red; }
-h2.blue { color: blue; }
-.gray { color: gray; }
-#golden { color: goldenrod; }
-.container :nth-child(2n) { background: yellow; }
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+ol li:nth-child(odd) {
+    color: purple;
+}
+
+ol li:nth-child(even) {
+    color: yellow;
+}
